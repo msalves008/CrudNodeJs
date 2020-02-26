@@ -15,5 +15,5 @@ Para o desenvollvimento deste projeto foi usado **`NodeJs`** no back-end e como 
 
 #### O que Está Aplicação Trouxe de Conhecimento para mim?
 
-Com essa aplicação pode ter a oportunidade conhecer como funciona o NodeJs e como realizar a conexão com um <br>Banco de Dados hospedados
+Com essa aplicação pude ter a oportunidade de conhecer como funciona o NodeJs e como realizar a conexão com um <br>Banco de Dados hospedados
 em um cloud da Google, aprimorando mais ainda meus conhecimentos e criando novas possibilidades para implementações futuras. 
